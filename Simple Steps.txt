@@ -1,0 +1,13 @@
+1. npm init to generate package.json
+2. Create main.js file
+3. Fill in main.js with the basic code
+4. Create index.html file
+5. Fill in index.html with the basic code
+6. Install electron using npm - Done globally? What is that?
+7. Run 'electron .' from the root directory
+8. Install electron-packager using npm - Done globally
+9. Add packaging scripts to package.json
+11. add notification.js with sample code for desktop notifications
+12. call notification.js from index.html
+13. run windows packaging script
+14. run linux packaging script
